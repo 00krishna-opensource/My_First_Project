@@ -1,0 +1,13 @@
+name = "My_First_Package"
+uuid = "51acbf40-a10c-4c10-b3e2-612e88a6e4c7"
+authors = ["Krishna Bhogaonker"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
