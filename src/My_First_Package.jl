@@ -10,6 +10,11 @@ function my_second_function()
     return 1 + 7
 end 
 
+function yet_another_function(a, b)
+    print("today is a good day...")
+    print("for some people.")
+end
+
 
 
 export my_first_function, my_second_function
