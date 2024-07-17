@@ -17,6 +17,6 @@ end
 
 
 
-export my_first_function, my_second_function
+export my_first_function, my_second_function, yet_another_function
 
 end
